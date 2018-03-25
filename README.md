@@ -1,1 +1,3 @@
-# Just-code
+# This repository is for my personal projects
+
+
